@@ -1,0 +1,7 @@
+C:\Users\dean.jaquez\documents\stuff\openclosed\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+C:\Users\dean.jaquez\documents\stuff\openclosed\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\Users\dean.jaquez\documents\stuff\openclosed\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\Users\dean.jaquez\documents\stuff\openclosed\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\dean.jaquez\documents\stuff\openclosed\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+C:\Users\dean.jaquez\documents\stuff\openclosed\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
+C:\Users\dean.jaquez\documents\stuff\openclosed\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
